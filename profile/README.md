@@ -1,4 +1,4 @@
-# Nutria Team
+# Team Nutria 
 ## Welcome to the official GitHub of Nutria! 👋
 
 We are a passionate team of developers and programmers dedicated to learning and exploring the depths of software engineering and reverse engineering techniques. Our focus is on creating programs for educational purposes, where we aim to understand game mechanics, security systems, and how game developers protect their creations from exploitation.
