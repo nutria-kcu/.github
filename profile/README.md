@@ -25,10 +25,10 @@ We believe in learning by doing and taking a deep dive into how games work on th
 | Role            | Name                                                | Task                        |
 |----------------|------------------------------------------------------|-----------------------------|
 | Team Leader    | [Geonho Roh](github.com/nickroh)                     | Oversees project, manages team, sets goals  |
-| Developer      | [Dowon Lee]()                                        | cpp development                   |
-| Developer      | [Joon-young Yang]()                                  | cpp development                   |
-| Developer      | [Yeon-gyu Jang]()                                    | c# development                    |
-| Supervisor     | [Sojung Lee]()                                       | Reviews progress, ensures quality control |
+| Developer      | [Dowon Lee](github.com/Dowon3)                       | cpp development                   |
+| Developer      | [Joon-young Yang](github.com/junnman0216)            | cpp development                   |
+| Developer      | [Yeon-gyu Jang](github.com/yeongyuchang)             | c# development                    |
+| Supervisor     | Sojung Lee                                           | Reviews progress, ensures quality control |
 
 
 ## 🛠️ Projects
