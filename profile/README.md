@@ -21,6 +21,16 @@ We believe in learning by doing and taking a deep dive into how games work on th
 * Educational Purpose: Our main goal is to educate ourselves and others about how software interacts with games and how developers protect their code.
 * No Harm: We aim to never cause harm to any developers or game companies. Our focus is entirely on learning and research.
 
+## 🧑‍💻 Our Team
+| Role            | Name                                                | Task                        |
+|----------------|------------------------------------------------------|-----------------------------|
+| Team Leader    | [Geonho Roh](github.com/nickroh)                     | Oversees project, manages team, sets goals  |
+| Developer      | [Dowon Lee]()                                        | cpp development                   |
+| Developer      | [Joon-young Yang]()                                  | cpp development                   |
+| Developer      | [Yeon-gyu Jang]()                                    | c# development                    |
+| Supervisor     | [Sojung Lee]()                                       | Reviews progress, ensures quality control |
+
+
 ## 🛠️ Projects
 Here are some of our current and past projects:
 
