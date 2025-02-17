@@ -23,11 +23,11 @@ We believe in learning by doing and taking a deep dive into how games work on th
 
 ## 🧑‍💻 Our Team
 | Role            | Name                                                | Task                        |
-|----------------|------------------------------------------------------|-----------------------------|
-| Team Leader    | [Geonho Roh](https://github.com/nickroh)                     | Oversees project, manages team, sets goals  |
-| Developer      | [Dowon Lee](https://github.com/Dowon3)                       | cpp development                   |
-| Developer      | [Jun Young Yang](https://github.com/junnman0216)             | cpp development                   |
-| Developer      | [Yeon-gyu Jang](https://github.com/yeongyuchang)             | c# development                    |
+|-------------------|------------------------------------------------------|-----------------------------|
+| Team Leader       | [Geonho Roh](https://github.com/nickroh)                     | Directs overall development, oversees the entire development process, and ensures project success.  |
+| FrontEnd Dev Lead | [Dowon Lee](https://github.com/Dowon3)                       | Manages both C++ and Electron + React development, with a primary focus on the Electron + React GUI.|
+| Developer      | [Jun Young Yang](https://github.com/junnman0216)             | Handles C++ and Electron + React development tasks.                       |
+| Developer      | [Yeon-gyu Jang](https://github.com/yeongyuchang)             | Handles C++ and Electron + React development tasks.                       |
 | Supervisor     | [Sojung Lee](https://github.com/polarbeareyes)               | Reviews progress, ensures quality control |
 
 
