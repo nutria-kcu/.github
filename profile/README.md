@@ -27,7 +27,7 @@ We believe in learning by doing and taking a deep dive into how games work on th
 | Team Leader       | [Geonho Roh](https://github.com/nickroh)                     | Directs overall development, oversees the entire development process, and ensures project success.  |
 | FrontEnd Dev Lead | [Dowon Lee](https://github.com/Dowon3)                       | Manages both C++ and Electron + React development, with a primary focus on the Electron + React GUI.|
 | Developer      | [Yeon-gyu Jang](https://github.com/yeongyuchang)             | c# development                    |
-| Supervisor     | [Sojung Lee](https://github.com/polarbeareyes)               | Reviews progress, ensures quality control |
+| KCU-Supervisor     | [Sojung Lee](https://github.com/polarbeareyes)               | Reviews progress  |
 
 
 ## 🛠️ Projects
