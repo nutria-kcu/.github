@@ -26,7 +26,7 @@ We believe in learning by doing and taking a deep dive into how games work on th
 |-------------------|------------------------------------------------------|-----------------------------|
 | Team Leader       | [Geonho Roh](https://github.com/nickroh)                     | Directs overall development, oversees the entire development process, and ensures project success.  |
 | Library & Client Dev | [Dowon Lee](https://github.com/Dowon3)                       | Core library development using cpp, client development using electron/react |
-| Web & Library Dev | [Yeon-gyu Jang](https://github.com/yeongyuchang)             | Core library development using cpp, web development using nextjs         |
+| Web & Library Dev | [Yeon-gyu Chang](https://github.com/yeongyuchang)             | Core library development using cpp, web development using nextjs         |
 | KCU-Supervisor     | [Sojung Lee](https://github.com/polarbeareyes)               | Reviews progress  |
 
 
