@@ -25,7 +25,7 @@ We believe in learning by doing and taking a deep dive into how games work on th
 | Role            | Name                                                | Task                        |
 |-------------------|------------------------------------------------------|-----------------------------|
 | Team Leader       | [Geonho Roh](https://github.com/nickroh)                     | Directs overall development, oversees the entire development process, and ensures project success.  |
-| Library, Internal algorithm Dev | [Dowon Lee](https://github.com/Dowon3)                       | Core library and aimbor algorithm development using cpp |
+| Library, Internal algorithm Dev | [Dowon Lee](https://github.com/Dowon3)                       | Core library and aimbot algorithm development using cpp |
 | Frontend & Backend Dev | [Yeon-gyu Chang](https://github.com/yeongyuchang)             |  web development using nextjs  |
 | KCU-Supervisor     | [Sojung Lee](https://github.com/polarbeareyes)               | Reviews progress  |
 
